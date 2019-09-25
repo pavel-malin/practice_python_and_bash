@@ -1,0 +1,1 @@
+echo 123 hi 34 hello. | grep [[:digit:]]
